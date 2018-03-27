@@ -1,8 +1,4 @@
 foo: dms employee version 3
 
-spring:
-  rabbitmq:
-    host: 192.16.8.62
-    port: 5672
-    username: 111111
-    password: 111111
+server:
+  port: 8764
