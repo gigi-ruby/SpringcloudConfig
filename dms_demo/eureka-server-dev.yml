@@ -5,9 +5,7 @@ server:
 #  port: 8781
 
 # Application
-spring:
-  application:
-    name: eureka-server
+#spring:
 #  profiles:
 #    active: peer1
 #    active: peer2
