@@ -1,1 +1,4 @@
 foo: dms employee version 0
+
+server:
+  port: 8774
