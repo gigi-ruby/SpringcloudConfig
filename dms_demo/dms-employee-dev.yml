@@ -1,4 +1,4 @@
-foo: dms employee version 0
+foo: dms employee version 1
 
 spring:
   rabbitmq:
