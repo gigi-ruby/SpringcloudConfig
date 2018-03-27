@@ -1,4 +1,4 @@
-foo: dms employee version 3
+foo: dms employee version 1
 
 server:
-  port: 8764
+  port: 8774
